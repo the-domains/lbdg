@@ -1,0 +1,23 @@
+name: LBDG
+favicon: null
+layout_spectrum: 0.7016027229838073
+typography_spectrum: 0.4380698648747057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.723716773558408
+  lightness: 0.9586575333960354
+  saturation: 0.35121046169660985
+  rhythmicContrast: 0.3573941288050264
+purpose: []

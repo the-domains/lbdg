@@ -1,24 +1,24 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Past, Present & Future Works by JL Civi'
-datePublished: '2015-11-17T05:31:19.527Z'
-dateModified: '2015-11-17T05:31:15.187Z'
+datePublished: '2015-11-17T05:34:01.594Z'
+dateModified: '2015-11-17T05:33:55.378Z'
 title: 'Past, Present & Future Works'
+sourcePath: _posts/2015-11-17-past-present-and-future-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-17-past-present-and-future-works.md
-published: true
 url: past-present-and-future-works/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Past, Present & Future Works

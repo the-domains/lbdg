@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Past, Present & Future Works by JL Civi'
-datePublished: '2015-11-17T05:40:56.074Z'
-dateModified: '2015-11-17T05:40:53.045Z'
+datePublished: '2015-11-17T05:59:06.218Z'
+dateModified: '2015-11-17T05:59:03.141Z'
 title: 'Past, Present & Future Works'
 sourcePath: _posts/2015-11-17-past-present-and-future-works.md
 published: true

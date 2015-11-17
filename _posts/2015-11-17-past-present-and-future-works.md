@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Past, Present & Future Works by JL Civi'
-datePublished: '2015-11-17T05:34:01.594Z'
-dateModified: '2015-11-17T05:33:55.378Z'
+datePublished: '2015-11-17T05:40:56.074Z'
+dateModified: '2015-11-17T05:40:53.045Z'
 title: 'Past, Present & Future Works'
 sourcePath: _posts/2015-11-17-past-present-and-future-works.md
 published: true
@@ -23,7 +23,7 @@ _type: Article
 ---
 # Past, Present & Future Works
 
-**Novels**
+# **Novels**
 
 * Timely Persuasion (2008)
 * Duty Calls
@@ -31,19 +31,19 @@ _type: Article
 * The Dog is Here to Save Me
 * A Love Extreme
 
-**Short Stories**
+# **Short Stories**
 
 * Just Like Starting Over (2009)
 * Fester (2012)
 * Cornfields
 
-**Screenplays**
+# **Screenplays**
 
 * _Everything's Schmoove_(aka****_I'm With the Band_**)**
 * _Wasted Days in a Wasted Daze_
 * _The Handoff_
 
-**Local Access Television**
+# **Local Access Cable TV**
 
-* Max Cosmic (1991)
+* Max Cosmic
 * The Many Lies of John & Jon

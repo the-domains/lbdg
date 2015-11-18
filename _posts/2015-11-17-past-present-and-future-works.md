@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Past, Present & Future Works by JL Civi'
-datePublished: '2015-11-17T05:59:06.218Z'
-dateModified: '2015-11-17T05:59:03.141Z'
+datePublished: '2015-11-18T06:13:13.846Z'
+dateModified: '2015-11-18T06:13:08.030Z'
 title: 'Past, Present & Future Works'
 sourcePath: _posts/2015-11-17-past-present-and-future-works.md
 published: true
@@ -25,11 +25,11 @@ _type: Article
 
 # **Novels**
 
-* Timely Persuasion (2008)
-* Duty Calls
-* The Commuter
-* The Dog is Here to Save Me
-* A Love Extreme
+* _Timely Persuasion_ (2008)
+* _Duty Calls_
+* _The Commuter_
+* _The Dog is Here to Save Me_
+* _A Love Extreme_
 
 # **Short Stories**
 
@@ -45,5 +45,5 @@ _type: Article
 
 # **Local Access Cable TV**
 
-* Max Cosmic
+* Max Cosmic (1991)
 * The Many Lies of John & Jon

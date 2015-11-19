@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Past, Present & Future Works by JL Civi'
-datePublished: '2015-11-18T06:13:13.846Z'
-dateModified: '2015-11-18T06:13:08.030Z'
+datePublished: '2015-11-19T04:47:21.320Z'
+dateModified: '2015-11-19T04:47:15.857Z'
 title: 'Past, Present & Future Works'
 sourcePath: _posts/2015-11-17-past-present-and-future-works.md
 published: true
@@ -22,6 +22,8 @@ _type: Article
 
 ---
 # Past, Present & Future Works
+
+I'm always working on something.  Sometimes many somethings.  A year indicates a completed project. No year means it may surface someday...
 
 # **Novels**
 
@@ -39,7 +41,7 @@ _type: Article
 
 # **Screenplays**
 
-* _Everything's Schmoove_(aka****_I'm With the Band_**)**
+* _Everything's Schmoove _(aka ****_I'm With the Band_**)**
 * _Wasted Days in a Wasted Daze_
 * _The Handoff_
 

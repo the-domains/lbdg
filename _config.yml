@@ -1,8 +1,8 @@
 name: LBDG
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.40551
-title: I Am From The Future
+title: The Online Home of JL Civi
 collections:
   - index:
       path: /

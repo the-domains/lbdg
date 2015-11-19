@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Past, Present & Future Works by JL Civi'
-datePublished: '2015-11-19T04:47:21.320Z'
-dateModified: '2015-11-19T04:47:15.857Z'
+description: Works (and works in progress) by JL Civi
+datePublished: '2015-11-19T04:51:59.945Z'
+dateModified: '2015-11-19T04:51:57.087Z'
 title: 'Past, Present & Future Works'
 sourcePath: _posts/2015-11-17-past-present-and-future-works.md
 published: true
@@ -27,7 +27,7 @@ I'm always working on something.  Sometimes many somethings.  A year indicates a
 
 # **Novels**
 
-* _Timely Persuasion_ (2008)
+* _[Timely Persuasion][0]_ (2008)
 * _Duty Calls_
 * _The Commuter_
 * _The Dog is Here to Save Me_
@@ -36,7 +36,7 @@ I'm always working on something.  Sometimes many somethings.  A year indicates a
 # **Short Stories**
 
 * Just Like Starting Over (2009)
-* Fester (2012)
+* [Fester][1] (2012)
 * Cornfields
 
 # **Screenplays**
@@ -49,3 +49,6 @@ I'm always working on something.  Sometimes many somethings.  A year indicates a
 
 * Max Cosmic (1991)
 * The Many Lies of John & Jon
+
+[0]: http://www.amazon.com/Timely-Persuasion-Jacob-LaCivita-ebook/dp/B0026ZOVHU/
+[1]: http://www.amazon.com/Fester-Jacob-LaCivita-ebook/dp/B00E332OY0

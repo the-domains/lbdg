@@ -4,7 +4,7 @@
         <description><![CDATA[I Am From The Future]]></description>
         <link>https://thegrid.ai/lbdg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 04:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 04:53:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lbdg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Timely Persuasion]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/lbdg/fester/index.html</link>
             <guid isPermaLink="false">0b1309e2-10a8-4ff5-a07a-01fca0e71e7e</guid>
             <pubDate>Thu, 19 Nov 2015 04:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Past, Present & Future Works]]></title>
-            <description><![CDATA[<article><h1>Past, Present & Future Works</h1><p>Works (and works in progress) by JL Civi</p></article>]]></description>
-            <link>https://thegrid.ai/lbdg/past-present-and-future-works/index.html</link>
-            <guid isPermaLink="false">8f34e62d-f53d-44b8-8a3e-ef4defcf7d3c</guid>
-            <pubDate>Thu, 19 Nov 2015 04:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

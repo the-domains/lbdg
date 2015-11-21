@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I Am From The Future]]></title>
-        <description><![CDATA[I Am From The Future]]></description>
+        <title><![CDATA[The Online Home of JL Civi]]></title>
+        <description><![CDATA[The Online Home of JL Civi]]></description>
         <link>https://thegrid.ai/lbdg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 04:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 04:41:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lbdg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Timely Persuasion]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lbdg/0e8d35d4-1ece-4d31-8ba9-e9c455c920d3/index.html</link>
             <guid isPermaLink="false">0e8d35d4-1ece-4d31-8ba9-e9c455c920d3</guid>
             <pubDate>Thu, 19 Nov 2015 04:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Few of My Favorite Things]]></title>
+            <description><![CDATA[<article><h1>A Few of My Favorite Things</h1><p>The way Joe Castiglione says "bunt!"</p></article>]]></description>
+            <link>https://thegrid.ai/lbdg/a-few-of-my-favorite-things/index.html</link>
+            <guid isPermaLink="false">10d87a3c-de39-4713-9d38-2fef5de361c0</guid>
+            <pubDate>Sat, 21 Nov 2015 04:40:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fester]]></title>

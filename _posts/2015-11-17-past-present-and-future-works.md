@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: Works (and works in progress) by JL Civi
-datePublished: '2015-11-19T04:52:52.900Z'
-dateModified: '2015-11-19T04:52:50.480Z'
+datePublished: '2015-11-21T04:42:29.894Z'
+dateModified: '2015-11-21T04:42:26.884Z'
 title: 'Past, Present & Future Works'
 sourcePath: _posts/2015-11-17-past-present-and-future-works.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -23,7 +24,7 @@ _type: WebPage
 ---
 # Past, Present & Future Works
 
-I'm always working on something.  Sometimes many somethings.  A year indicates a completed project. No year means it may surface someday...
+I'm always working on something.  Sometimes many somethings.  Completed projects have years. No year means it may surface someday...
 
 # **Novels**
 

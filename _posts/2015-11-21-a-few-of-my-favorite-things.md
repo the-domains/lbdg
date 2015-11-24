@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-22T18:47:47.700Z'
-dateModified: '2015-11-22T18:47:43.284Z'
+description: Things I Dig
+datePublished: '2015-11-24T05:31:59.046Z'
+dateModified: '2015-11-24T05:31:55.692Z'
 title: A Few of My Favorite Things
 author: []
 sourcePath: _posts/2015-11-21-a-few-of-my-favorite-things.md
@@ -35,4 +35,5 @@ Palindromes
 Time travel
 
 Wet Arlos after rainy walks
-null
+
+When Kurt's eyes get big towards the end of the last song on Unplugged

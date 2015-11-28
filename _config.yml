@@ -1,7 +1,7 @@
 name: LBDG
 favicon: null
-layout_spectrum: 0.2082
-typography_spectrum: 0.40551
+layout_spectrum: 0.68124
+typography_spectrum: 0.27316
 title: The Online Home of JL Civi
 collections:
   - index:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.125
   lightness: 0.625
   saturation: 0.75
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []

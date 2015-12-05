@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Things I Dig
-datePublished: '2015-12-05T20:26:59.887Z'
-dateModified: '2015-12-01T05:14:35.237Z'
+datePublished: '2015-12-05T20:28:23.632Z'
+dateModified: '2015-12-05T20:28:21.149Z'
 title: A Few of My Favorite Things
 author: []
 sourcePath: _posts/2015-11-21-a-few-of-my-favorite-things.md
